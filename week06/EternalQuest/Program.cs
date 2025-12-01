@@ -1,6 +1,5 @@
 // Eternal Quest - Week 06
-// Author:Gabriel Luiz Batista Passo
-// Comments explaining extra features in simple English:
+// Author:Gabriel Luiz Batista Passos
 // - Level system added: your level increases when your total score passes certain thresholds.
 // - Badge system: you earn badges automatically after reaching score milestones.
 // - Optional "negative goals" idea described in comments for future expansion.
